@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 this is a new comment.
 hi .
+no changes added to commit (use "git add" and/or "git commit -a")
